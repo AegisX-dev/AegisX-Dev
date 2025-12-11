@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700" alt="Header GIF" />
+</div>
+
 # <p align="center">Hi 👋, I'm Dev Sharma</p>
 
 ### <p align="center">Full Stack Engineer | AI Orchestrator Building Next.js Apps at the Speed of Thought</p>
