@@ -137,6 +137,9 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/>
   </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40"/>
+  </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   </a>
