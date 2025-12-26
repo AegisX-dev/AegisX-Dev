@@ -20,7 +20,7 @@
 - ⚡ **Fun fact:** I shipped a full-stack AI app in **24 hours solo.**
 
 <div align="left">
-  <a href="https://dev-sharma-portfolio.vercel.app/">
+  <a href="https://devsh-portfolio8.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:Devsh0801@gmail.com">
