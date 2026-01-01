@@ -14,7 +14,7 @@
 
 > *Building context-aware AI systems and developer tools.*
 
-- 🔭 I'm currently working on **[FORMA](https://forma-two.vercel.app/)** – A Science-based Fitness Micro-SaaS.
+- 🔭 I'm currently working on **[FORMA](https://forma-sys.vercel.app/)** – A Science-based Fitness Micro-SaaS.
 - 🌱 I'm deep diving into **Advanced DevOps (Docker/K8s)** & **Agentic AI**.
 - 💬 Ask me about **Hybrid RAG**, **Logic-Only AI**, & **Supabase**.
 - ⚡ **Fun fact:** I shipped a full-stack AI app in **24 hours solo.**
